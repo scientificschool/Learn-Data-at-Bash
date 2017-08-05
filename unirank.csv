@@ -1,0 +1,232 @@
+Name,Location, State,Tuition and fees,Undergrad Enrollment,Rank
+Princeton University,Princeton, NJ,45320,5402,1
+Harvard University,Cambridge, MA,47074,6699,2
+University of Chicago,Chicago, IL,52491,5844,3
+Yale University,New Haven, CT,49480,5532,3
+Columbia University,New York, NY,55056,6102,5
+Stanford University,Stanford, CA,47940,6999,5
+Massachusetts Institute of Technology,Cambridge, MA,48452,4527,7
+Duke University,Durham, NC,51265,6639,8
+University of Pennsylvania,Philadelphia, PA,51464,9726,8
+Johns Hopkins University,Baltimore, MD,50410,6524,10
+Dartmouth College,Hanover, NH,51438,4307,11
+California Institute of Technology,Pasadena, CA,47577,1001,12
+Northwestern University,Evanston, IL,50855,8314,12
+Brown University,Providence, RI,51367,6652,14
+Cornell University,Ithaca, NY,50953,14315,15
+Rice University,Houston, TX,43918,3910,15
+University of Notre Dame,Notre Dame, IN,49685,8462,15
+Vanderbilt University,Nashville, TN,45610,6883,15
+Washington University in St. Louis,St. Louis, MO,49770,7504,19
+Emory University,Atlanta, GA,47954,6867,20
+Georgetown University,Washington, DC,50547,7562,20
+University of California--Berkeley,Berkeley, CA,40191,27496,20
+University of Southern California,Los Angeles, CA,52217,18810,23
+Carnegie Mellon University,Pittsburgh, PA,52040,6454,24
+University of California--Los Angeles,Los Angeles, CA,39518,29585,24
+University of Virginia,Charlottesville, VA,45066,16736,24
+Tufts University,Medford, MA,52430,5290,27
+University of Michigan--Ann Arbor,Ann Arbor, MI,43476,28312,27
+Wake Forest University,Winston-Salem, NC,49308,4871,27
+University of North Carolina--Chapel Hill,Chapel Hill, NC,33916,18415,30
+Boston College,Chestnut Hill, MA,51296,9192,31
+College of William & Mary,Williamsburg, VA,41718,6301,32
+University of Rochester,Rochester, NY,50142,6304,32
+Brandeis University,Waltham, MA,51570,3621,34
+Georgia Institute of Technology,Atlanta, GA,32404,15142,34
+New York University,New York, NY,49062,25722,36
+Case Western Reserve University,Cleveland, OH,46006,5121,37
+University of California--Santa Barbara,Santa Barbara, CA,40704,20607,37
+Boston University,Boston, MA,50240,17932,39
+Northeastern University,Boston, MA,47655,13697,39
+Rensselaer Polytechnic Institute,Troy, NY,50797,5864,39
+Tulane University,New Orleans, LA,51010,6662,39
+University of California--Irvine,Irvine, CA,39458,25256,39
+Lehigh University,Bethlehem, PA,48320,5075,44
+University of California--Davis,Davis, CA,40728,28384,44
+University of California--San Diego,La Jolla, CA,41387,26590,44
+University of Illinois--Urbana-Champaign,Champaign, IL,31320,33368,44
+University of Miami,Coral Gables, FL,47004,11122,44
+University of Wisconsin--Madison,Madison, WI,32738,31662,44
+Pepperdine University,Malibu, CA,50022,3533,50
+University of Florida,Gainesville, FL,28666,35043,50
+Villanova University,Villanova, PA,49280,6994,50
+Pennsylvania State University--University Park,University Park, PA,32382,40742,50
+Ohio State University--Columbus,Columbus, OH,29229,45289,54
+University of Washington,Seattle, WA,34791,31063,54
+George Washington University,Washington, DC,51950,11157,56
+Southern Methodist University,Dallas, TX,50358,6411,56
+University of Georgia,Athens, GA,29844,27547,56
+University of Texas--Austin,Austin, TX,34676,39619,56
+Fordham University,New York, NY,47317,8855,60
+Purdue University--West Lafayette,West Lafayette, IN,28804,29497,60
+Syracuse University,Syracuse, NY,45022,15196,60
+University of Connecticut,Storrs, CT,35858,18826,60
+University of Maryland--College Park,College Park, MD,32045,27443,60
+Worcester Polytechnic Institute,Worcester, MA,46994,4299,60
+Clemson University,Clemson, SC,32796,18016,66
+Yeshiva University,New York, NY,40670,2744,66
+Brigham Young University--Provo,Provo, UT,5300,30221,68
+University of Pittsburgh,Pittsburgh, PA,29758,18908,68
+Rutgers University--New Brunswick,Piscataway, NJ,30023,35484,70
+Baylor University,Waco, TX,42006,14189,71
+Stevens Institute of Technology,Hoboken, NJ,48838,2873,71
+University of Minnesota--Twin Cities,Minneapolis, MN,22210,34071,71
+American University,Washington, DC,44853,7909,74
+Clark University,Worcester, MA,43150,2397,74
+Texas A&M University--College Station,College Station, TX,28768,48960,74
+University of Massachusetts--Amherst,Amherst, MA,30123,22748,74
+Virginia Tech,Blacksburg, VA,29371,25384,74
+Miami University--Oxford,Oxford, OH,31592,16387,79
+University of California--Santa Cruz,Santa Cruz, CA,40241,16231,79
+University of Delaware,Newark, DE,31420,18322,79
+Colorado School of Mines,Golden, CO,34828,4608,82
+Michigan State University,East Lansing, MI,39090,39143,82
+Texas Christian University,Fort Worth, TX,42670,8894,82
+University of Iowa,Iowa City, IA,28413,23357,82
+Binghamton University--SUNY,Binghamton, NY,22164,13491,86
+Indiana University--Bloomington,Bloomington, IN,34246,38364,86
+Marquette University,Milwaukee, WI,38470,8334,86
+University of Denver,Denver, CO,46362,5758,86
+University of San Diego,San Diego, CA,46140,5647,86
+University of Tulsa,Tulsa, OK,38796,3478,86
+Florida State University,Tallahassee, FL,24673,32706,92
+North Carolina State University--Raleigh,Raleigh, NC,26399,24111,92
+University of Colorado--Boulder,Boulder, CO,35079,27010,92
+University of Vermont,Burlington, VT,40364,10973,92
+Drexel University,Philadelphia, PA,51030,14138,96
+Saint Louis University,St. Louis, MO,40726,8248,96
+Stony Brook University--SUNY,Stony Brook, NY,26266,16831,96
+Auburn University,Auburn, AL,28840,21786,99
+Loyola University Chicago,Chicago, IL,41384,11079,99
+SUNY College of Environmental Science and Forestry,Syracuse, NY,17620,1839,99
+University at Buffalo--SUNY,Buffalo, NY,26270,19951,99
+Illinois Institute of Technology,Chicago, IL,45214,2991,103
+University of Alabama,Tuscaloosa, AL,26950,31958,103
+University of Oregon,Eugene, OR,33442,20538,103
+University of Tennessee,Knoxville, TN,30858,21863,103
+Rochester Institute of Technology,Rochester, NY,38568,12607,107
+University of New Hampshire,Durham, NH,31424,13034,107
+University of San Francisco,San Francisco, CA,44494,6782,107
+University of South Carolina,Columbia, SC,31282,25237,107
+Iowa State University,Ames, IA,21483,30034,111
+University of Dayton,Dayton, OH,40940,8665,111
+University of Missouri,Columbia, MO,25892,27812,111
+University of Nebraska--Lincoln,Lincoln, NE,23148,20182,111
+University of Oklahoma,Norman, OK,21451,22132,111
+University of the Pacific,Stockton, CA,44588,3735,111
+University of Utah,Salt Lake City, UT,27039,23794,111
+Michigan Technological University,Houghton, MI,30968,5721,118
+Seton Hall University,South Orange, NJ,39258,6090,118
+Temple University,Philadelphia, PA,25994,28609,118
+University of California--Riverside,Riverside, CA,40263,18608,118
+University of Kansas,Lawrence, KS,25932,19245,118
+University of St. Thomas,St. Paul, MN,39594,6240,118
+The Catholic University of America,Washington, DC,42536,3480,124
+DePaul University,Chicago, IL,37626,15961,124
+Duquesne University,Pittsburgh, PA,35062,5961,124
+Howard University,Washington, DC,24908,6883,124
+University of Arizona,Tucson, AZ,30025,33732,124
+Arizona State University--Tempe,Tempe, AZ,25458,41828,129
+Clarkson University,Potsdam, NY,46132,3257,129
+Colorado State University,Fort Collins, CO,28374,24433,129
+New School,New York, NY,45535,6792,129
+Hofstra University,Hempstead, NY,42160,6824,133
+University of Kentucky,Lexington, KY,26334,22705,133
+Kansas State University,Manhattan, KS,23429,19859,135
+Louisiana State University--Baton Rouge,Baton Rouge, LA,27005,26156,135
+Mercer University,Macon, GA,35130,4667,135
+New Jersey Institute of Technology,Newark, NJ,30326,8008,135
+Rutgers University--Newark,Newark, NJ,29480,7713,135
+University of Arkansas,Fayetteville, AR,23168,22159,135
+University of Cincinnati,Cincinnati, OH,26334,25054,135
+University of Mississippi,University, MS,22012,18785,135
+George Mason University,Fairfax, VA,32582,23062,143
+Oregon State University,Corvallis, OR,28846,24612,143
+Washington State University,Pullman, WA,25673,24470,143
+Adelphi University,Garden City, NY,34034,4852,146
+Ohio University,Athens, OH,21208,23513,146
+San Diego State University,San Diego, CA,18244,29234,146
+St. John Fisher College,Rochester, NY,31880,2805,146
+University at Albany--SUNY,Albany, NY,22244,12908,146
+University of Texas--Dallas,Richardson, TX,33654,15575,146
+Illinois State University,Normal, IL,20886,18426,152
+Immaculata University,Immaculata, PA,35210,1790,152
+Oklahoma State University,Stillwater, OK,20978,21046,152
+University of California--Merced,Merced, CA,39944,6237,152
+University of Illinois--Chicago,Chicago, IL,26526,17575,152
+University of La Verne,La Verne, CA,39900,2864,152
+University of Massachusetts--Lowell,Lowell, MA,29125,13266,152
+Seattle Pacific University,Seattle, WA,38940,3202,159
+University of Alabama--Birmingham,Birmingham, AL,17654,11511,159
+University of Maryland--Baltimore County,Baltimore, MD,24492,11243,159
+University of Rhode Island,Kingston, RI,28852,13641,159
+University of South Florida,Tampa, FL,17325,31111,159
+Biola University,La Mirada, CA,36696,4225,164
+Maryville University of St. Louis,St Louis, MO,27958,2795,164
+Missouri University of Science & Technology,Rolla, MO,26152,6841,164
+St. John's University,Queens, NY,39460,16210,164
+Virginia Commonwealth University,Richmond, VA,31608,24051,164
+Union University,Jackson, TN,30420,2829,169
+University of Hawaii--Manoa,Honolulu, HI,33764,13689,169
+Edgewood College,Madison, WI,27530,1813,171
+Florida Institute of Technology,Melbourne, FL,40446,3586,171
+University of Idaho,Moscow, ID,22040,9116,171
+University of Louisville,Louisville, KY,24626,15769,171
+University of Wyoming,Laramie, WY,16215,10045,171
+Ball State University,Muncie, IN,25428,16602,176
+Lipscomb University,Nashville, TN,29756,3030,176
+Mississippi State University,Mississippi State, MS,20142,17421,176
+Montclair State University,Montclair, NJ,20318,16336,176
+Texas Tech University,Lubbock, TX,22861,29237,176
+University of Central Florida,Orlando, FL,22467,54513,176
+University of New Mexico,Albuquerque, NM,21302,20522,176
+Andrews University,Berrien Springs, MI,27684,1733,183
+Azusa Pacific University,Azusa, CA,36120,5883,183
+University of Maine,Orono, ME,29498,9297,183
+West Virginia University,Morgantown, WV,21432,22498,183
+Widener University,Chester, PA,42870,3554,183
+Kent State University,Kent, OH,18376,23607,188
+North Dakota State University,Fargo, ND,19790,12037,188
+Pace University,New York, NY,42772,8747,188
+Robert Morris University,Moon Township, PA,28250,4497,188
+Suffolk University,Boston, MA,35578,5565,188
+University of Hartford,West Hartford, CT,37790,5246,188
+Bowling Green State University,Bowling Green, OH,18332,14334,194
+University of Houston,Houston, TX,25410,34716,194
+Western Michigan University,Kalamazoo, MI,25713,18567,194
+Indiana University-Purdue University--Indianapolis,Indianapolis, IN,29791,21985,197
+Lesley University,Cambridge, MA,25750,1520,197
+University of Alabama--Huntsville,Huntsville, AL,20622,6013,197
+University of Colorado--Denver,Denver, CO,29334,14036,197
+University of Nevada--Reno,Reno, NV,21052,17770,197
+California State University--Fullerton,Fullerton, CA,17596,33144,202
+Central Michigan University,Mount Pleasant, MI,23670,20498,202
+Louisiana Tech University,Ruston, LA,25851,10682,202
+South Dakota State University,Brookings, SD,11403,11007,202
+University of Alaska--Fairbanks,Fairbanks, AK,22469,7610,202
+University of North Carolina--Charlotte,Charlotte, NC,20193,22732,202
+University of North Dakota,Grand Forks, ND,18899,11577,202
+University of South Dakota,Vermillion, SD,11688,7435,202
+East Carolina University,Greenville, NC,22904,23039,210
+Montana State University,Bozeman, MT,23042,13707,210
+Old Dominion University,Norfolk, VA,27028,20101,210
+University of Missouri--Kansas City,Kansas City, MO,22714,11253,210
+Ashland University,Ashland, OH,20392,3716,214
+Dallas Baptist University,Dallas, TX,26180,3315,214
+Northern Illinois University,DeKalb, IL,23799,15027,214
+Nova Southeastern University,Ft. Lauderdale, FL,27660,4641,214
+Southern Illinois University--Carbondale,Carbondale, IL,27130,13031,214
+University of Montana,Missoula, MT,24562,8732,214
+Benedictine University,Lisle, IL,32170,3347,220
+California State University--Fresno,Fresno, CA,17209,21482,220
+Gardner-Webb University,Boiling Springs, NC,29850,2615,220
+New Mexico State University,Las Cruces, NM,21234,12526,220
+Shenandoah University,Winchester, VA,31322,2010,220
+Tennessee Technological University,Cookeville, TN,24800,9801,220
+University of Massachusetts--Boston,Boston, MA,32023,12949,220
+University of Massachusetts--Dartmouth,North Dartmouth, MA,19270,7295,220
+University of Missouri--St. Louis,St. Louis, MO,26277,13569,220
+University of North Carolina--Greensboro,Greensboro, NC,21595,15951,220
+University of Southern Mississippi,Hattiesburg, MS,16094,11840,220
+Utah State University,Logan, UT,19772,25259,220
